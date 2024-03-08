@@ -7,6 +7,7 @@
     "description": "A DevOps extension that lets you add a check box with a user-defined text to a Pull Request",
     "public": false,
     "categories": ["Azure Repos"],
+    "baseUri": "https://localhost:44300",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
