@@ -1,0 +1,15 @@
+{
+  "name": "checkmate",
+  "version": "1.0.0",
+  "description": "A Azure DevOps extension that lets you add a check box with a user-defined text to a Pull Request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-devops-extension-sdk": "^4.0.2"
+  }
+}
